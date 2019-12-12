@@ -1,0 +1,14 @@
+.background-body {
+    background: rgb(232,232,247);
+    background: linear-gradient(90deg, rgba(232,232,247,1) 0%, rgba(255,253,253,1) 55%, rgba(0,212,255,1) 100%);
+}
+
+.img-projeto {
+    height: 300px;
+    width:300px;
+    border-radius: 50%;
+}
+
+.container-consultores {
+    border-radius: 20px;
+}
